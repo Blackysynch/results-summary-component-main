@@ -49,7 +49,7 @@ While completing this challenge I learned how to use bootstrap grid to evently s
 
 ### Continued development
 
-I intend to try the desktop approach to using flexbox. Right now the flexbox was not responsive.
+I intend to try the desktop approach to using flexbox. Right now the desktop design is not ready for large screens. the flexbox was not responsive :( .
 
 
 ## Author
