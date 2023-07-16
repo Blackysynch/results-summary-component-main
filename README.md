@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://codepen.io/ornelle/pen/gOQXrKX)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [codepen](https://codepen.io/ornelle/pen/gOQXrKX)
+- Live Site URL: [github page](https://blackysynch.github.io/results-summary-component-main/)
 
 ## My process
 
